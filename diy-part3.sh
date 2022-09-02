@@ -1,5 +1,3 @@
-#!/bin/bash
-#
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
 #
 # This is free software, licensed under the MIT License.
@@ -25,8 +23,7 @@
 #添加额外非必须软件包
 #git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
-#git clone https://github.com/kenzok8/small-package package/small-package
-git clone https://github.com/kiddin9/openwrt-packages.git package/openwrt-packages
+
 
 
 #Custom Theme
@@ -41,9 +38,6 @@ git clone https://github.com/kiddin9/openwrt-packages.git package/openwrt-packag
 #svn co https://github.com/kenzok8/small-package/trunk/luci-theme-dog package/openwrt-packages/luci-theme-dog
 #svn co https://github.com/kenzok8/small-package/trunk/luci-app-argon-config package/openwrt-packages/luci-app-argon-config
 #svn co https://github.com/kenzok8/small-package/trunk/luci-app-argonne-config package/openwrt-packages/luci-app-argonne-config
-
-#Custom Package
-svn co https://github.com/Boos4721/openwrt/trunk/package/qca/nss package/boos-nss-packages
 #git clone https://github.com/fullcone-nat-nftables/nft-fullcone package/custom
 #svn co https://github.com/wongsyrone/lede-1/trunk/package/network/utils/nftables package/network/utils/nftables
 #svn co https://github.com/wongsyrone/lede-1/trunk/package/libs/libnftnl package/libs/libnftnl
