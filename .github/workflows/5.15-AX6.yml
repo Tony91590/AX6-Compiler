@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/Tony91590/qsdk_cmiot-ax6/blob/Work-test
+  REPO_URL: https://github.com/Tony91590/qsdk_cmiot-ax6
   REPO_BRANCH: Work-test
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
