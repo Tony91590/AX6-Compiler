@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Builjdjrtamallakkdj692111
+name: R36000x2
 
 on:
   repository_dispatch:
