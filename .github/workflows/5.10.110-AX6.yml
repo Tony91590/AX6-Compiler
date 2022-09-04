@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/Tony91590/qsdk-5.4
+  REPO_URL: https://github.com/Tony91590/R3600
   REPO_BRANCH: Master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
